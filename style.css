@@ -20,7 +20,8 @@ body {
   /* duration/timing-function/delay/iterations/name */
   animation-fill-mode: forwards;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  background-position: center;
   position: relative;
 }
 
